@@ -1,0 +1,234 @@
+{
+  "request_id": "demo-001",
+  "sample_id": "sample-A",
+  "reads": [
+    {
+      "read_id": "l1-01",
+      "locus": "L1",
+      "umi": "AAAA",
+      "sequence": "AAAA",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l1-02",
+      "locus": "L1",
+      "umi": "AAAA",
+      "sequence": "AAAA",
+      "qualities": [
+        37,
+        37,
+        37,
+        37
+      ]
+    },
+    {
+      "read_id": "l1-03",
+      "locus": "L1",
+      "umi": "AAAA",
+      "sequence": "AAAA",
+      "qualities": [
+        30,
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "read_id": "l1-04",
+      "locus": "L1",
+      "umi": "AAAA",
+      "sequence": "ACAA",
+      "qualities": [
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "read_id": "l1-05",
+      "locus": "L1",
+      "umi": "AAAT",
+      "sequence": "AAAA",
+      "qualities": [
+        35,
+        35,
+        35,
+        35
+      ]
+    },
+    {
+      "read_id": "l1-06",
+      "locus": "L1",
+      "umi": "AAAT",
+      "sequence": "AAAA",
+      "qualities": [
+        25,
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "read_id": "l2-01",
+      "locus": "L2",
+      "umi": "AAAA",
+      "sequence": "AAAA",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l2-02",
+      "locus": "L2",
+      "umi": "AAAA",
+      "sequence": "AAAA",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l2-03",
+      "locus": "L2",
+      "umi": "AAAA",
+      "sequence": "AAAA",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l2-04",
+      "locus": "L2",
+      "umi": "ACCA",
+      "sequence": "CCCC",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l2-05",
+      "locus": "L2",
+      "umi": "ACCA",
+      "sequence": "CCCC",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l2-06",
+      "locus": "L2",
+      "umi": "ACCA",
+      "sequence": "CCCC",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l2-07",
+      "locus": "L2",
+      "umi": "ACAA",
+      "sequence": "AAAA",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l3-01",
+      "locus": "L3",
+      "umi": "GGGG",
+      "sequence": "GGGG",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l3-02",
+      "locus": "L3",
+      "umi": "GGGG",
+      "sequence": "GGGG",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l3-04",
+      "locus": "L3",
+      "umi": "TTTT",
+      "sequence": "ATTT",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l3-05",
+      "locus": "L3",
+      "umi": "TTTT",
+      "sequence": "ATTT",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l3-06",
+      "locus": "L3",
+      "umi": "TTTT",
+      "sequence": "TTTT",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    {
+      "read_id": "l3-07",
+      "locus": "L3",
+      "umi": "TTTT",
+      "sequence": "TTTT",
+      "qualities": [
+        40,
+        40,
+        40,
+        40
+      ]
+    }
+  ]
+}
